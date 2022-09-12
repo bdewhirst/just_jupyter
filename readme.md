@@ -1,5 +1,8 @@
 # if jupyter notebook is needed, that's what this environment maintains
 
+## _n.b._
+* It is assumed that this will be maintained within PyCharm for Windows & anaconda is already installed, and related functionality is assumed
+
 ## requirements
 * maintained by pip within conda AFAIK
   * double check if it becomes relevant
@@ -15,3 +18,6 @@
 * enter `jupyter notebook`
 * select desired kernel, get started.
 * default jupyterhub location:  http://localhost:8888/tree
+
+## contact information
+b.dewhirst@gmail.com
