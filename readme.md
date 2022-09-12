@@ -19,5 +19,10 @@
 * select desired kernel, get started.
 * default jupyterhub location:  http://localhost:8888/tree
 
+## possible future work
+* Intelij has a whole IDE for "jupyter stuff"
+* Commercial version(s) of this or other InteliJ products have more intercompatibility
+* Additionally, commercial PyCharm has more explicit notebook integration
+
 ## contact information
 b.dewhirst@gmail.com
